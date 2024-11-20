@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Carrera:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Carrera_jar</output-path>
+    <root id="archive" name="psp_u2_ReyesSoleraJoseAntonio.jar">
+      <element id="module-output" name="psp_u2_ReyesSoleraJoseAntonio" />
+    </root>
+  </artifact>
+</component>
